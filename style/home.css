@@ -1,0 +1,10 @@
+.time {
+  font-size: 50px;
+}/*# sourceMappingURL=home.css.map */
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  height: 100vh;
+}
